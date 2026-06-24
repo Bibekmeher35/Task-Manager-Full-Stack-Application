@@ -2,6 +2,12 @@
 
 A modern, production-ready Task Manager web application built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). Features secure JWT authentication, full CRUD operations, real-time filtering & sorting, a statistics dashboard, and a premium dark-mode UI with glassmorphism design.
 
+## 🔗 Live Application
+
+The project is live and deployed:
+- **Frontend (UI)**: [https://task-manager-full-stack-application.vercel.app/](https://task-manager-full-stack-application.vercel.app/)
+- **Backend (API)**: [https://taskflow-manager-ap2v.onrender.com](https://taskflow-manager-ap2v.onrender.com)
+
 ## ✨ Features
 
 ### Authentication & Authorization

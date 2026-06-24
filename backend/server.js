@@ -21,7 +21,7 @@ app.use(helmet());
 app.use(
   cors({
     origin: process.env.NODE_ENV === 'production' 
-      ? true  // Allow same-origin in production
+      ? ['https://task-manager-full-stack-application.vercel.app']
       : ['http://localhost:5173', 'http://localhost:3000'],
     credentials: true,
   })
